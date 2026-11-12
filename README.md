@@ -4,8 +4,6 @@ Ordering-address vendors stay extended to the purchasing org only. Direct procur
 | --- | --- |
 | Date | Not stated in transcript (follow-up to the 9 Nov call) |
 | Topic | WHT follow-up: vendor extension, invoicing party, exemption fields, certificates |
-| Participants (as heard) | Ashish, Harshita, Sourabh (both dropped early), Andy, Nikki, Kranti |
-| Mentioned | Shrikant (testing), Saravana (vendor onboarding), Sushil, Kaushal, Nikita (off today), Ajay Prasad |
 
 **Key outcomes**
 
