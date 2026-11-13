@@ -1,9 +1,17 @@
+# Minutes of Meeting – WHT Follow-up: Vendor Setup, Invoicing Party & Exemptions
+
+Nov 12, 2026 · @Ram Krupa
+
+## Meeting details and key outcomes
+
 Ordering-address vendors stay extended to the purchasing org only. Direct procurement from a domestic delivering entity was raised as a new scenario and needs business confirmation. Invoicing parties exist only for payment and bank accounts.
 
 | Item | Detail |
 | --- | --- |
 | Date | Not stated in transcript (follow-up to the 9 Nov call) |
 | Topic | WHT follow-up: vendor extension, invoicing party, exemption fields, certificates |
+| Participants (as heard) | Ashish, Harshita, Sourabh (both dropped early), Andy, Nikki, Kranti |
+| Mentioned | Shrikant (testing), Saravana (vendor onboarding), Sushil, Kaushal, Nikita (off today), Ajay Prasad |
 
 **Key outcomes**
 
